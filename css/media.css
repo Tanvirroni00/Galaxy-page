@@ -1,0 +1,114 @@
+@media(max-width:575px) {
+    .height {
+        text-align: center;
+    }
+
+    .hero-content h1 {
+        margin: auto;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-size: 27px;
+    }
+
+    .hero-content p {
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 15px;
+        margin: 20px auto;
+    }
+
+    .hero-content button {
+        background: rgb(253, 81, 17);
+        color: rgb(255, 255, 255);
+        padding: 5px 15px;
+        border-radius: 6px;
+        margin: 55px auto auto;
+    }
+
+    .icon {
+        height: 60px;
+        width: 60px;
+        background: rgb(253, 81, 17);
+        font-size: 36px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        color: rgb(255, 255, 255);
+        margin: auto;
+    }
+
+    .items h3 {
+        margin: 28px auto;
+        text-transform: capitalize;
+    }
+
+    .items p {
+        color: rgb(153, 153, 153);
+        font-size: 15px;
+        margin-bottom: 25px;
+    }
+
+    .I-want-to h1 {
+        text-align: center;
+        margin: 10px auto;
+        color: rgb(253, 81, 17);
+        font-size: 25px;
+        font-weight: 200;
+    }
+
+    .item-pic h3 {
+        margin: 20px auto;
+        text-transform: capitalize;
+        font-size: 26px;
+    }
+
+    .gallery-last h1 {
+        text-align: center;
+        font-size: 25px;
+        margin: 30px auto;
+    }
+
+    .gallery-part {
+        margin: auto;
+    }
+
+    .gallery-part h1 {
+
+
+        font-size: 30px;
+        color: #fd5111;
+        margin: 20px auto;
+    }
+    .gallery-part p {
+        color: rgb(153, 153, 153);
+    
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+    .left {
+        /* margin: auto; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+    .right ul {
+        text-decoration: none;
+        display: flex;
+        
+        justify-content: center;
+    }
+    .right a {
+        color: #fff;
+        margin-left: 40px;
+    }
+    .item-banner h3 {
+        margin: 20px auto;
+        text-transform: capitalize;
+        font-size: 25px;
+    }.item-banner p {
+        color: rgb(153, 153, 153);
+        margin-bottom: 15px;
+        font-size: 14px;
+    }
